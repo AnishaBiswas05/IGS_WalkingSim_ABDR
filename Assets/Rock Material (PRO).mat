@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rock Material
+  m_Name: Rock Material (PRO)
   m_Shader: {fileID: -6465566751694194690, guid: 047339d35ab72f64692a23a0fd1510a0, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -70,14 +70,14 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _GradientThresh: 4.62
+    - _GradientThresh: 69.76
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Scale: 1
+    - _Scale: 17.61
     - _SmoothnessTextureChannel: 1
-    - _SpeckScale: 1000000
+    - _SpeckScale: 6000
     - _SpeckThresh: 0.65
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -89,7 +89,7 @@ Material:
     - _Color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RidgeColor: {r: 0.3584906, g: 0.29693845, b: 0.29693845, a: 1}
-    - _SpeckColor: {r: 0.29056606, g: 0.21076804, b: 0.15515128, a: 1}
+    - _SpeckColor: {r: 0.2905661, g: 0.21076809, b: 0.15515131, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7131282416327537314
 MonoBehaviour:

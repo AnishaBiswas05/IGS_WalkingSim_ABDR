@@ -248,7 +248,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5095
+  m_VersionIndex: 5098
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -48844,7 +48844,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 4997
+  m_VersionIndex: 5000
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -48916,8 +48916,8 @@ Transform:
   m_GameObject: {fileID: 3576737507708129023}
   serializedVersion: 2
   m_LocalRotation: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: 0.20500183, y: 35.448303, z: -5.7800007}
-  m_LocalScale: {x: 6.1327147, y: 1, z: 3.3542595}
+  m_LocalPosition: {x: 0.20500183, y: 38.4418, z: -5.7800007}
+  m_LocalScale: {x: 6.650929, y: 1, z: 3.3542595}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3754688420165812570}
@@ -49134,7 +49134,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5095
+  m_VersionIndex: 5098
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -49487,7 +49487,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5095
+  m_VersionIndex: 5098
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -50059,7 +50059,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5191
+  m_VersionIndex: 5194
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -50196,8 +50196,8 @@ Transform:
   m_GameObject: {fileID: 4913103816815799971}
   serializedVersion: 2
   m_LocalRotation: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: 5.7300034, y: 34.9069, z: -5.6799984}
-  m_LocalScale: {x: 5.302528, y: 1, z: 1.7457411}
+  m_LocalPosition: {x: 6.1487, y: 38.7507, z: -5.7014}
+  m_LocalScale: {x: 5.9362545, y: 1.1255, z: 1.9648316}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3754688420165812570}
@@ -50414,7 +50414,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5095
+  m_VersionIndex: 5098
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -50583,7 +50583,7 @@ Transform:
   m_GameObject: {fileID: 6775934171895245404}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.0014, y: -0.3, z: 52.5935}
+  m_LocalPosition: {x: 19.0014, y: -1.3, z: 52.5935}
   m_LocalScale: {x: 6.903886, y: 1, z: 11.603525}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -50676,7 +50676,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -50930,7 +50930,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5095
+  m_VersionIndex: 5098
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -51065,8 +51065,8 @@ Transform:
   m_GameObject: {fileID: 7837048694470331679}
   serializedVersion: 2
   m_LocalRotation: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: 45.686, y: 35.803703, z: -5.6799984}
-  m_LocalScale: {x: 6.1938453, y: 1, z: 10.668049}
+  m_LocalPosition: {x: 45.686, y: 38.8272, z: -5.6799984}
+  m_LocalScale: {x: 6.717225, y: 1, z: 10.668049}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3754688420165812570}
@@ -51283,7 +51283,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 5095
+  m_VersionIndex: 5098
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -51406,7 +51406,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1169732844559470147, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 3828
+      value: 3831
       objectReference: {fileID: 0}
     - target: {fileID: 1294435438510000056, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_Name
@@ -51414,11 +51414,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1340438409115212293, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 5110
+      value: 5113
       objectReference: {fileID: 0}
     - target: {fileID: 2108575720689398336, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 5110
+      value: 5113
       objectReference: {fileID: 0}
     - target: {fileID: 2604041894420117482, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_LocalScale.x
@@ -51474,7 +51474,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2670344467746681035, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 5110
+      value: 5113
       objectReference: {fileID: 0}
     - target: {fileID: 2670344467746681035, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_SelectedEdges.Array.size
@@ -51490,7 +51490,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5142704532460202608, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 4173
+      value: 4176
       objectReference: {fileID: 0}
     - target: {fileID: 5142704532460202608, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_SelectedEdges.Array.size
@@ -51506,7 +51506,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7412089521570698111, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 5544
+      value: 5547
       objectReference: {fileID: 0}
     - target: {fileID: 7412089521570698111, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_SelectedEdges.Array.size
@@ -51522,7 +51522,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7586664123160262949, guid: cbb4c05dfb646064691cb6f9d4bf1d64, type: 3}
       propertyPath: m_VersionIndex
-      value: 4173
+      value: 4176
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
